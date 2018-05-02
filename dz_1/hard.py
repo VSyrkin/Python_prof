@@ -25,4 +25,4 @@ elif (med_anketa['age'] > 30 and med_anketa['age'] <= 40) and (med_anketa['weigh
 elif med_anketa['age'] > 40 and (med_anketa['weight'] < 50 or med_anketa['weight'] > 120):
     print('Пациенту требуется врачебный осмотр')
 else:
-    print('Неизвестный случай')
+    print('Неизвестный случай!!!')
